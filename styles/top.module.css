@@ -1,0 +1,29 @@
+  .mv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+    text-align: center;
+    background: #dcdcdc;
+  }
+  .mvContainer {
+    padding: 0 40px;
+  }
+  .mvTitle {
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    letter-spacing: .1em;
+  }
+  .mvSubTitle {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1;
+    margin-bottom: 40px;
+    letter-spacing: .08em;
+  }
+  .mvText {
+    font-size: 16px;
+    line-height: 1.8;
+  }
