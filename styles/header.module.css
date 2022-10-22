@@ -1,0 +1,37 @@
+.container {
+  max-width: 1340px;
+  margin: 0 auto;
+  padding: 0 40px;
+  background: #dcdcdc;
+  }
+.gnavlist{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+.gnavitem{
+  position: relative;
+  font-size: 15px;
+  font-weight: bold;
+  display: inline-block;
+  padding: 5px 0;
+  transition: .3s;
+  letter-spacing: .05em;
+  color: #333;
+}
+.gnavitem::after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 3px;
+  content: "";
+  transition: .3s;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: #333;
+}
+
+.gnavitem:hover::after {
+  width: 100%;
+}
