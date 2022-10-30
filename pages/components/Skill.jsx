@@ -45,7 +45,8 @@ import nego_icon from "../../img/skill/certificate/nego_icon.png";
 
 const Skill = () => {
   return (
-    <div className={(style.skill, style.section)} id="skill">
+    // <div className={(style.skill, style.section)} id="skill">
+    <div id="skill">
       <div className={style.container}>
         <h2 className={style.title}>SKILL</h2>
         <div className={style.skillList}>

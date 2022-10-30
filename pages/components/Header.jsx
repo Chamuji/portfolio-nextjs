@@ -26,11 +26,11 @@ const Header = () => {
               <a>SKILL</a>
             </Link>
           </li>
-          <li className={style.gnavitem}>
+          {/* <li className={style.gnavitem}>
             <Link href="/blog">
               <a>BLOG</a>
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </header>
