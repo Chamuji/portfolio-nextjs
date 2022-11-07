@@ -1,0 +1,59 @@
+
+.container {
+  max-width: 1340px;
+  margin: 0 auto;
+  padding: 0 40px;
+  background: #F0F1F3;
+  filter: drop-shadow(10px 5px 4px #707070);
+  }
+.title {
+  /* font-size: 26px;
+  margin-bottom: 20px; */
+  font-size: 34px;
+    font-weight: bold;
+    line-height: 1;
+    margin-bottom: 40px;
+    text-align: center;
+    letter-spacing: .05em;
+    color: #333;
+}
+
+.section {
+  padding: 90px 0;
+}
+
+
+ /* Skill */
+.skillList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: -50px;
+}
+
+.skillItem {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 48%;
+  margin-bottom: 50px;
+}
+
+.skillImg {
+  width: 60px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.skillBody {
+  flex: 1;
+}
+
+.skillName {
+  margin-bottom: 10px;
+}
+
+.skillText {
+  font-size: 14px;
+  line-height: 1.8;
+}
