@@ -87,7 +87,7 @@ const Portfolio = () => {
               </Link>
             </div>
             <div className={style.itemSpace}>
-              <Link href="https://chamuji-portfolio-nextjs-2658xgptv-chamuji.vercel.app/">
+              <Link href="https://portfolio-nextjs-chamuji.vercel.app/">
                 <a target="_blank">
                   <u className={style.cursor}>
                     <b>公開したサイトはこちら</b>
