@@ -34,16 +34,20 @@ const Portfolio = () => {
           <div className={style.link}>
             <div className={style.itemSpace}>
               <Link href="https://github.com/Chamuji/portfolio-web">
-                <u className={style.cursor}>
-                  <b>GitHubはこちら</b>
-                </u>
+                <a target="_blank">
+                  <u className={style.cursor}>
+                    <b>GitHubはこちら</b>
+                  </u>
+                </a>
               </Link>
             </div>
             <div className={style.itemSpace}>
               <Link href="https://chamuji-portfolio-web.web.app/">
-                <u className={style.cursor}>
-                  <b>公開したサイトはこちら</b>
-                </u>
+                <a target="_blank">
+                  <u className={style.cursor}>
+                    <b>公開したサイトはこちら</b>
+                  </u>
+                </a>
               </Link>
             </div>
           </div>
@@ -59,30 +63,36 @@ const Portfolio = () => {
           <Image src={NoImg} alt="" />
         </p>
         <div className={style.portfolioBody}>
-          <h3>タイトル</h3>
-          <span className={style.date_tag_item}>作成日 : yyyy-mm</span>
-          <span className={style.date_tag_item}>タグ : hoge / foo / huga</span>
+          <h3>Chamui Portfolio NextJS</h3>
+          <span className={style.date_tag_item}>作成日 : 2022-11</span>
+          <span className={style.date_tag_item}>
+            タグ : NextJS / CSS / Vercel
+          </span>
 
           <p>
-            ここに説明が入ります。ここに説明が入ります。ここに説明が入ります。ここに説明が入ります。
+            HTMLで作成したポートフォリオを模倣してNextJSで作成
             <br />
-            ここに説明が入ります。ここに説明が入ります。ここに説明が入ります。ここに説明が入ります。
+            完全なレスポンシブ対応ができていないため、スマホ・タブレットでの閲覧をした場合レイアウトが崩れてしまう。
             <br />
           </p>
 
           <div className={style.link}>
             <div className={style.itemSpace}>
               <Link href="https://github.com/Chamuji/portfolio-web">
-                <u className={style.cursor}>
-                  <b>GitHubはこちら</b>
-                </u>
+                <a target="_blank">
+                  <u className={style.cursor}>
+                    <b>GitHubはこちら</b>
+                  </u>
+                </a>
               </Link>
             </div>
             <div className={style.itemSpace}>
               <Link href="https://chamuji-portfolio-web.web.app/">
-                <u className={style.cursor}>
-                  <b>公開したサイトはこちら</b>
-                </u>
+                <a target="_blank">
+                  <u className={style.cursor}>
+                    <b>公開したサイトはこちら</b>
+                  </u>
+                </a>
               </Link>
             </div>
           </div>
@@ -93,7 +103,7 @@ const Portfolio = () => {
       <br />
       <br />
 
-      <div className={style.portfolio}>
+      {/* <div className={style.portfolio}>
         <p className={style.portfolioImg}>
           <Image src={NoImg} alt="" />
         </p>
@@ -112,22 +122,26 @@ const Portfolio = () => {
           <div className={style.footerLink}>
             <div className={style.footerLinkItem}>
               <Link href="https://github.com/chamuji">
-                <Image src={githubImg} alt="" className={style.cursor} />
+                <a target="_blank">
+                  <Image src={githubImg} alt="" className={style.cursor} />
+                </a>
               </Link>
             </div>
 
             <div className={style.footerLinkItem}>
               <Link href="https://github.com/chamuji">
-                <Image
-                  src={WebSiteImg}
-                  alt=""
-                  className={`${style.cursor} ${style.footerLinkItemRadius}`}
-                />
+                <a target="_blank">
+                  <Image
+                    src={WebSiteImg}
+                    alt=""
+                    className={`${style.cursor} ${style.footerLinkItemRadius}`}
+                  />
+                </a>
               </Link>
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <br />
       <br />
     </div>

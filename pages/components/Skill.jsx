@@ -82,7 +82,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>JavaScript</h3>
-              <p className={style.skillText}>あああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -99,7 +99,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>TypeScript</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -116,7 +116,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Java</h3>
-              <p className={style.skillText}>あああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={Star} style={{ color: "#fc6530" }} />
@@ -131,7 +131,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Kotlin</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={Star} style={{ color: "#fc6530" }} />
@@ -146,7 +146,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>AndroidJava</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -161,7 +161,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>AndroidKotlin</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -178,7 +178,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Swift</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -195,7 +195,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>PHP</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -209,7 +209,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>C#</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -224,7 +224,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Dart</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={Star} style={{ color: "#fc6530" }} />
@@ -238,7 +238,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>HTML5/CSS3</h3>
-              <p className={style.skillText}>ああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -259,7 +259,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>AndroidStudio</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -276,7 +276,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Xcode</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -290,7 +290,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>ReactJS</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -307,7 +307,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>ReactNative</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -324,7 +324,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Redux</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -338,7 +338,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Laravel</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -352,7 +352,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Flutter</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={Star} style={{ color: "#fc6530" }} />
@@ -367,7 +367,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>NextJS</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={Star} style={{ color: "#fc6530" }} />
@@ -381,7 +381,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>.Net</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={Star} style={{ color: "#fc6530" }} />
@@ -399,7 +399,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Firebase</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -413,7 +413,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Heroku</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={Star} style={{ color: "#fc6530" }} />
@@ -427,7 +427,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>AWS</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -445,7 +445,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>Docker</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -459,7 +459,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>git</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -476,7 +476,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>gitHub</h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -493,6 +493,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>gitLab</h3>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
@@ -512,7 +513,7 @@ const Skill = () => {
             </p>
             <div className={style.skillBody}>
               <h3 className={style.skillName}>WordPress</h3>
-              <p className={style.skillText}>ああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={Star} style={{ color: "#fc6530" }} />
@@ -529,7 +530,7 @@ const Skill = () => {
               <h3 className={style.skillName}>
                 プロジェクトリーダー・ディレクター
               </h3>
-              <p className={style.skillText}>ああああああああああああああ</p>
+              {/* <p className={style.skillText}>あああああああああああああ</p> */}
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
               <FontAwesomeIcon icon={faStar} style={{ color: "#fc6530" }} />
